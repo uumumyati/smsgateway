@@ -1,0 +1,61 @@
+Mon 2019/01/21 22:05:44 gammu-smsd[9648]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:05:44 gammu-smsd[9648]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:05:44 gammu-smsd[9648]: Created Windows RW shared memory at 00700000
+Mon 2019/01/21 22:05:44 gammu-smsd[9648]: Starting phone communication...
+Mon 2019/01/21 22:05:53 gammu-smsd[9648]: Inserting phone info
+Mon 2019/01/21 22:05:54 gammu-smsd[9648]: Read 1 messages
+Mon 2019/01/21 22:18:46 gammu-smsd[7912]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:18:46 gammu-smsd[7912]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:18:46 gammu-smsd[7912]: Created Windows RW shared memory at 00710000
+Mon 2019/01/21 22:18:46 gammu-smsd[7912]: Starting phone communication...
+Mon 2019/01/21 22:18:46 gammu-smsd[7912]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:21:57 gammu-smsd[12236]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:21:57 gammu-smsd[12236]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:21:57 gammu-smsd[12236]: Created Windows RW shared memory at 00E10000
+Mon 2019/01/21 22:21:57 gammu-smsd[12236]: Starting phone communication...
+Mon 2019/01/21 22:21:57 gammu-smsd[12236]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:24:44 gammu-smsd[8716]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:24:44 gammu-smsd[8716]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:24:44 gammu-smsd[8716]: Created Windows RW shared memory at 00710000
+Mon 2019/01/21 22:24:44 gammu-smsd[8716]: Starting phone communication...
+Mon 2019/01/21 22:24:44 gammu-smsd[8716]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:26:36 gammu-smsd[11932]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:26:36 gammu-smsd[11932]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:26:36 gammu-smsd[11932]: Created Windows RW shared memory at 001D0000
+Mon 2019/01/21 22:26:36 gammu-smsd[11932]: Starting phone communication...
+Mon 2019/01/21 22:26:36 gammu-smsd[11932]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:28:43 gammu-smsd[8896]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:28:43 gammu-smsd[8896]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:28:43 gammu-smsd[8896]: Created Windows RW shared memory at 00710000
+Mon 2019/01/21 22:28:43 gammu-smsd[8896]: Starting phone communication...
+Mon 2019/01/21 22:28:43 gammu-smsd[8896]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:49:36 gammu-smsd[1760]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:49:36 gammu-smsd[1760]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:49:36 gammu-smsd[1760]: Created Windows RW shared memory at 001F0000
+Mon 2019/01/21 22:49:36 gammu-smsd[1760]: Starting phone communication...
+Mon 2019/01/21 22:49:36 gammu-smsd[1760]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:56:57 gammu-smsd[9256]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:56:57 gammu-smsd[9256]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:56:57 gammu-smsd[9256]: Created Windows RW shared memory at 006D0000
+Mon 2019/01/21 22:56:57 gammu-smsd[9256]: Starting phone communication...
+Mon 2019/01/21 22:56:57 gammu-smsd[9256]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:58:44 gammu-smsd[7872]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:58:44 gammu-smsd[7872]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:58:44 gammu-smsd[7872]: Created Windows RW shared memory at 00710000
+Mon 2019/01/21 22:58:44 gammu-smsd[7872]: Starting phone communication...
+Mon 2019/01/21 22:58:44 gammu-smsd[7872]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 22:58:55 gammu-smsd[9528]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 22:58:55 gammu-smsd[9528]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 22:58:55 gammu-smsd[9528]: Created Windows RW shared memory at 006C0000
+Mon 2019/01/21 22:58:55 gammu-smsd[9528]: Starting phone communication...
+Mon 2019/01/21 22:58:55 gammu-smsd[9528]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 23:01:01 gammu-smsd[11268]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 23:01:01 gammu-smsd[11268]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 23:01:01 gammu-smsd[11268]: Created Windows RW shared memory at 027C0000
+Mon 2019/01/21 23:01:01 gammu-smsd[11268]: Starting phone communication...
+Mon 2019/01/21 23:01:01 gammu-smsd[11268]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2019/01/21 23:47:59 gammu-smsd[9196]: Connected to Database: db_cisms306 on localhost
+Mon 2019/01/21 23:47:59 gammu-smsd[9196]: Connected to Database native_mysql: db_cisms306 on localhost
+Mon 2019/01/21 23:47:59 gammu-smsd[9196]: Created Windows RW shared memory at 00690000
+Mon 2019/01/21 23:47:59 gammu-smsd[9196]: Starting phone communication...
+Mon 2019/01/21 23:47:59 gammu-smsd[9196]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
